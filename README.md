@@ -3,8 +3,6 @@
 Hi there, I'm **Cristian Prieto**, 
 
 I love programming.
-<img align="right" src="https://gph.is/g/4o6B0Km" alt="Coder GIF" width="500" height="400">
-
 
 Here are some ideas to get you started:
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  Cris or Davids.
 - ⚡ Fun fact:  The first time i saw the sea i didn't sleep the first time.
 
-<img align="right" src="https://gph.is/g/4o6B0Km" alt="Coder GIF" width="500" height="400">
 
 ### Languages and Tools:
 
