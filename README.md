@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+- Email: [![Email](https://mail.google.com/mail/u/0/#inboxstyle=flat-square&logo=gmail&logoColor=white)](cristiancho2502@gmail.com)
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
