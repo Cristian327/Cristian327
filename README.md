@@ -1,4 +1,9 @@
-### Hi there 👋
+
+## Hey 👋, Cristian Prieto
+
+Hi there, I'm **Albert Abdilim**, a **medical student**.
+
+I love programming.
 
 Here are some ideas to get you started:
 
