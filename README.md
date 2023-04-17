@@ -1,6 +1,6 @@
 
 
-Hi there, I'm **Cristian Prieto**, 
+Hi there, I'm **Cristian**, 
 
 I love programming.
 
