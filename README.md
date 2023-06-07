@@ -2,8 +2,6 @@
 
 Hi there, I'm **Cristian**, 
 
-I love programming.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning learning Mobile Development and Machine Learning.
