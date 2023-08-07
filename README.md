@@ -4,7 +4,6 @@ Hi there, I'm **Cristian**,
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning learning Mobile Development and Machine Learning.
 - 😄 Pronouns:  Cris
 
 
